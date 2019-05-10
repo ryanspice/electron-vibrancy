@@ -9,6 +9,7 @@
     "coffee-script": "^1.12.6",
     "coffeelint": "^1.16.0",
     "electron": "^1.6.8",
+    "electron-rebuild": "^1.8.4",
     "mocha": "^3.4.1",
     "node-gyp": "^3.6.1",
     "node-pre-gyp": "^0.6.34",
